@@ -1,0 +1,3 @@
+[submodule "Plugins/BasuUI_Plugins"]
+	path = Plugins/BasuUI_Plugins
+	url = https://github.com/dongchenyu163/UE4_BaseUI.git
